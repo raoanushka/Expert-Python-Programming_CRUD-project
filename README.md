@@ -17,3 +17,6 @@ Start the Flask API by running python python.py.
 Access the frontend through a web browser.
 ![Sample Image](https://github.com/raoanushka/Expert-Python-Programming_CRUD-project/assets/114872620/d7353eec-d8b2-4fab-9ef3-e3d6eeb0e019.jpg)
 
+![image](https://github.com/raoanushka/Expert-Python-Programming_CRUD-project/assets/114872620/841638ab-07c9-4867-abac-1a4ef6fb7148.jpg)
+
+
