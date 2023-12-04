@@ -15,3 +15,5 @@ HTML Templates: Used for rendering frontend views (listing, add, edit).
 Ensure MySQL is installed and configure the database connection in data.py.
 Start the Flask API by running python python.py.
 Access the frontend through a web browser.
+![Alt text](![image](https://github.com/raoanushka/Expert-Python-Programming_CRUD-project/assets/114872620/d7353eec-d8b2-4fab-9ef3-e3d6eeb0e019)
+)
