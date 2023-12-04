@@ -1,4 +1,4 @@
-![image](https://github.com/raoanushka/Expert-Python-Programming_CRUD-project/assets/114872620/e7497ab7-15d0-4198-a474-33814a276aa9)
+
 # Expert-Python-Programming_CRUD-project
 
 This project consists of a Flask-based REST API utilizing a MySQL database for CRUD operations (Create, Read, Update, Delete) on fund records. It's complemented by a JavaScript-based frontend for displaying, editing, and adding fund data.
